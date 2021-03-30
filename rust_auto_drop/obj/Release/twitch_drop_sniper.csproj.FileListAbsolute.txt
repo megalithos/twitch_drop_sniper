@@ -1,0 +1,14 @@
+C:\Users\kone\source\repos\twitch_drop_sniper\twitch_drop_sniper\rust_auto_drop\bin\Release\rust_auto_drop.exe.config
+C:\Users\kone\source\repos\twitch_drop_sniper\twitch_drop_sniper\rust_auto_drop\bin\Release\rust_auto_drop.exe
+C:\Users\kone\source\repos\twitch_drop_sniper\twitch_drop_sniper\rust_auto_drop\bin\Release\Selenium.WebDriverBackedSelenium.dll
+C:\Users\kone\source\repos\twitch_drop_sniper\twitch_drop_sniper\rust_auto_drop\bin\Release\WebDriver.dll
+C:\Users\kone\source\repos\twitch_drop_sniper\twitch_drop_sniper\rust_auto_drop\bin\Release\WebDriver.Support.dll
+C:\Users\kone\source\repos\twitch_drop_sniper\twitch_drop_sniper\rust_auto_drop\bin\Release\Selenium.WebDriverBackedSelenium.xml
+C:\Users\kone\source\repos\twitch_drop_sniper\twitch_drop_sniper\rust_auto_drop\bin\Release\WebDriver.xml
+C:\Users\kone\source\repos\twitch_drop_sniper\twitch_drop_sniper\rust_auto_drop\bin\Release\WebDriver.Support.xml
+C:\Users\kone\source\repos\twitch_drop_sniper\twitch_drop_sniper\rust_auto_drop\obj\Release\rust_auto_drop.Form1.resources
+C:\Users\kone\source\repos\twitch_drop_sniper\twitch_drop_sniper\rust_auto_drop\obj\Release\rust_auto_drop.Properties.Resources.resources
+C:\Users\kone\source\repos\twitch_drop_sniper\twitch_drop_sniper\rust_auto_drop\obj\Release\twitch_drop_sniper.csproj.GenerateResource.cache
+C:\Users\kone\source\repos\twitch_drop_sniper\twitch_drop_sniper\rust_auto_drop\obj\Release\twitch_drop_sniper.csproj.CoreCompileInputs.cache
+C:\Users\kone\source\repos\twitch_drop_sniper\twitch_drop_sniper\rust_auto_drop\obj\Release\twitch_drop_sniper.csproj.CopyComplete
+C:\Users\kone\source\repos\twitch_drop_sniper\twitch_drop_sniper\rust_auto_drop\obj\Release\rust_auto_drop.exe

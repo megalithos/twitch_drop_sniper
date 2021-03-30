@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.1382
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rust_auto_drop", "rust_auto_drop\rust_auto_drop.csproj", "{982EFA20-3871-410B-BF14-00C2AAD3FD5A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "twitch_drop_sniper", "rust_auto_drop\twitch_drop_sniper.csproj", "{982EFA20-3871-410B-BF14-00C2AAD3FD5A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
