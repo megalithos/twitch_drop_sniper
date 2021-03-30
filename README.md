@@ -1,6 +1,6 @@
 # twitch_drop_sniper
 
-## How to use? [Easy way]
+## How to use?
 Open the executable and input your twitch authentication token.
 To learn how to see get the twitch authentication token, please see "How to get twitch authentication token?"
 Optionally check the **hidden** checkbox to open the stream(s) in background.
