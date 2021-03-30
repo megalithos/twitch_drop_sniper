@@ -4,7 +4,7 @@
 Open the executable and input your twitch authentication token.
 To learn how to see get the twitch authentication token, please see "How to get twitch authentication token?"
 Optionally check the **hidden** checkbox to open the stream(s) in background.
-Also if you wish to only run for specific time in seconds, set the time in **stop after seconds**
+Also if you wish to only run for specific time in seconds, set the time in **stop after seconds**.
 
 ## How to get twitch authentication token?
 1. Go to the twitch.tv site.
