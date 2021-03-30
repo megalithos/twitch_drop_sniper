@@ -16,5 +16,5 @@ Also if you wish to only run for specific time in seconds, set the time in **sto
 ![image](https://user-images.githubusercontent.com/31120156/113023353-31b10380-918e-11eb-921f-f71102c5cc7f.png)
 4. Navigate to the auth-token<br/><br/>
 ![image](https://user-images.githubusercontent.com/31120156/113023673-8d7b8c80-918e-11eb-8cda-80cc400b1413.png)
-5. Click the auth-token text and copy the token (yes I had to blur it)<br/><br/>
+5. Click the auth-token text and copy the 'content' (yes I had to blur it)<br/><br/>
 ![image](https://user-images.githubusercontent.com/31120156/113023830-be5bc180-918e-11eb-846c-d31d2150b867.png)
