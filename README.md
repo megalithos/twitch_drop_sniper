@@ -1,4 +1,5 @@
 # twitch_drop_sniper
+![image](https://user-images.githubusercontent.com/31120156/113024540-8903a380-918f-11eb-8dfe-e1f08b5df744.png)
 
 ## How to use?
 Open the executable and input your twitch authentication token.
