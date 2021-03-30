@@ -1,0 +1,1 @@
+A exception with a null response was thrown sending an HTTP request to the remote WebDriver server for URL http://localhost:33642/session/a478929222217d7daeac36d400c2c71c/cookie. The status of the exception was KeepAliveFailure, and the message was: The underlying connection was closed: A connection that was expected to be kept alive was closed by the server.
