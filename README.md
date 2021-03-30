@@ -8,7 +8,7 @@ To learn how to see get the twitch authentication token, please see "How to get 
 Optionally check the **hidden** checkbox to open the stream(s) in background.
 Also if you wish to only run for specific time in seconds, set the time in **stop after seconds**.
 
-## How to get twitch authentication token?
+## How to get twitch authentication token (CHROME)?
 1. Go to the twitch.tv site.
 2. Click the lock button that is close to the url<br/><br/>
 ![image](https://user-images.githubusercontent.com/31120156/113023260-1e9e3380-918e-11eb-8f19-2b0cfd694f8d.png)
