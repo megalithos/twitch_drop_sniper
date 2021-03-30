@@ -1,6 +1,6 @@
 # twitch_drop_sniper
 ![image](https://user-images.githubusercontent.com/31120156/113024540-8903a380-918f-11eb-8dfe-e1f08b5df744.png)
-*Yes the UI is really ugly, but the software works so who cares?*
+<br/><br/>*Yes the UI is really ugly, but the software works so who cares?*
 
 ## How to use?
 Open the executable and input your twitch authentication token.
