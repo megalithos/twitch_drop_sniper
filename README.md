@@ -3,11 +3,8 @@
 ## How to use? [Easy way]
 Open the executable and input your twitch authentication token.
 To learn how to see get the twitch authentication token, please see "How to get twitch authentication token?"
-
-## How to use? [Preferable way]
-1. Open the executable and input your twitch authentication token.
-2. Select for how long you want the application run.
-3. Optionally check the **hidden** checkbox to open the stream(s) in background.
+Optionally check the **hidden** checkbox to open the stream(s) in background.
+Also if you wish to only run for specific time in seconds, set the time in **stop after seconds**
 
 ## How to get twitch authentication token?
 1. Go to the twitch.tv site.
