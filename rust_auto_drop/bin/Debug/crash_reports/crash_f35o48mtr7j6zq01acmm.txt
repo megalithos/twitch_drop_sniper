@@ -1,0 +1,1 @@
+A exception with a null response was thrown sending an HTTP request to the remote WebDriver server for URL http://localhost:4090/session/c12fcc514911853b7c2cdfe836368eec/url. The status of the exception was KeepAliveFailure, and the message was: The underlying connection was closed: A connection that was expected to be kept alive was closed by the server.

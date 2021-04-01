@@ -96,16 +96,18 @@ namespace rust_auto_drop
                     mainForm.ClearWatchingStreamersText();
                     driver = StartNewDriver();
                     CheckNotClaimed();
-                    CheckAlreadyClaimed();
+                    //CheckAlreadyClaimed();
                     liveStreamerURLs.Clear();
                     FetchStreams();
                     QuitDriver();
+                    Console.WriteLine("Opening streams...");
                     OpenAllStreams();
                     mainForm.SetStatus("waiting until next cycle...");
                     Thread.Sleep(RESET_STREAMS_AFTER_SECONDS * 1000);
                 }
             } catch (Exception e)
             {
+                Console.WriteLine(e.Message);
                 OutputCrashMessage(e.Message);
                 mainForm.Exit();
             }
@@ -122,6 +124,7 @@ namespace rust_auto_drop
         /// </summary>
         static void CheckAlreadyClaimed()
         {
+            return;
             string[] claimed = File.ReadAllLines(CLAIMED_STREAMERS_LIST_PATH);
 
             foreach (string url in liveStreamerURLs)
