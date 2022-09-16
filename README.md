@@ -2,6 +2,9 @@
 ![image](https://user-images.githubusercontent.com/31120156/113024540-8903a380-918f-11eb-8dfe-e1f08b5df744.png)
 <br/><br/>*Yes the UI is really ugly, but the software works so who cares?*
 
+# NOTE
+You need to most likely do some changes to the code because last time I worked on this was long time ago.
+
 ## How to use?
 Open the executable and input your twitch authentication token.
 To learn how to see get the twitch authentication token, please see "How to get twitch authentication token?"
